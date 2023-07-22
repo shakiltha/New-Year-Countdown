@@ -10,3 +10,5 @@ let's say
 At first I thought I only count down from a certain *date*. But later I thought what other **feature** I can add to it. then I found why not change the color of second for every second count down. so there is two necessary **function** i've used to fulfill this goal. 
 - one is for count down from a certain date of time.
 - other is to generate random color for each second count down
+
+here is the live demo [new-year-countdown](courageous-boba-816a17.netlify.app)
