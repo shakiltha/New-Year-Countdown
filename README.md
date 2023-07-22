@@ -11,4 +11,4 @@ At first I thought I only count down from a certain *date*. But later I thought 
 - one is for count down from a certain date of time.
 - other is to generate random color for each second count down
 
-here is the live demo [new-year-countdown](courageous-boba-816a17.netlify.app)
+here is the live demo [new-year-countdown](https://courageous-boba-816a17.netlify.app/)
