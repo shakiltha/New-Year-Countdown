@@ -3,7 +3,7 @@ const hours = document.getElementById('hours');
 const minutes = document.getElementById('minutes');
 const seconds = document.getElementById('seconds');
 
-const countdownFrom = new Date('January 1, 2024 00:00:00');
+const countdownFrom = new Date('January 1, 2025 00:00:00');
 
 function countdownFunc() {
     const currentTime = new Date();
